@@ -20,9 +20,6 @@ let chartData = {
         responsive: true,
         scales:{
             x:{
-                // grid:{
-                // display: true,
-                // },
                 position: 'bottom',
                 backgroundColor:'white',
                 TextColor:'red'
